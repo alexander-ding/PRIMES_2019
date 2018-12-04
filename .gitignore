@@ -43,3 +43,5 @@ Thumbs.db
 *.pyc
 *.pages
 Personal Statement.pdf
+*.out
+*.test
